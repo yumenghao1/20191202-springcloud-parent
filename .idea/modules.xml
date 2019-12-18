@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20191202-consumer-management/20191202-consumer-7000/20191202-consumer-7000.iml" filepath="$PROJECT_DIR$/20191202-consumer-management/20191202-consumer-7000/20191202-consumer-7000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-consumer-management/20191202-consumer-management.iml" filepath="$PROJECT_DIR$/20191202-consumer-management/20191202-consumer-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-eureka-management/20191202-eureka-7080/20191202-eureka-7080.iml" filepath="$PROJECT_DIR$/20191202-eureka-management/20191202-eureka-7080/20191202-eureka-7080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-eureka-management/20191202-eureka-management.iml" filepath="$PROJECT_DIR$/20191202-eureka-management/20191202-eureka-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-provider-management/20191202-provider-8000/20191202-provider-8000.iml" filepath="$PROJECT_DIR$/20191202-provider-management/20191202-provider-8000/20191202-provider-8000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-provider-management/20191202-provider-management.iml" filepath="$PROJECT_DIR$/20191202-provider-management/20191202-provider-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-management.iml" filepath="$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-mapper/20191202-springcloud-mapper.iml" filepath="$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-mapper/20191202-springcloud-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-model/20191202-springcloud-model.iml" filepath="$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-model/20191202-springcloud-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-springcloud-parent.iml" filepath="$PROJECT_DIR$/20191202-springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-service/20191202-springcloud-service.iml" filepath="$PROJECT_DIR$/20191202-springcloud-management/20191202-springcloud-service/20191202-springcloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-eureka-management/20191203-eureka-7081/20191203-eureka-7081.iml" filepath="$PROJECT_DIR$/20191202-eureka-management/20191203-eureka-7081/20191203-eureka-7081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-eureka-management/20191203-eureka-7082/20191203-eureka-7082.iml" filepath="$PROJECT_DIR$/20191202-eureka-management/20191203-eureka-7082/20191203-eureka-7082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-provider-management/20191203-provider-8001/20191203-provider-8001.iml" filepath="$PROJECT_DIR$/20191202-provider-management/20191203-provider-8001/20191203-provider-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-provider-management/20191203-provider-8002/20191203-provider-8002.iml" filepath="$PROJECT_DIR$/20191202-provider-management/20191203-provider-8002/20191203-provider-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-consumer-management/20191206-consumer-7001/20191206-consumer-7001.iml" filepath="$PROJECT_DIR$/20191202-consumer-management/20191206-consumer-7001/20191206-consumer-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-consumer-management/20191206-consumer-7002/20191206-consumer-7002.iml" filepath="$PROJECT_DIR$/20191202-consumer-management/20191206-consumer-7002/20191206-consumer-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-springcloud-management/20191206-springcloud-api/20191206-springcloud-api.iml" filepath="$PROJECT_DIR$/20191202-springcloud-management/20191206-springcloud-api/20191206-springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191209-zuul-management/20191209-zuul-management.iml" filepath="$PROJECT_DIR$/20191209-zuul-management/20191209-zuul-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20191202-provider-management/20191218-provider-8003/20191218-provider-8003.iml" filepath="$PROJECT_DIR$/20191202-provider-management/20191218-provider-8003/20191218-provider-8003.iml" />
+    </modules>
+  </component>
+</project>

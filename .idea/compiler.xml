@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="20191202-springcloud-mapper" />
+        <module name="20191202-provider-8000" />
+        <module name="20191203-provider-8002" />
+        <module name="20191203-provider-8001" />
+        <module name="20191202-eureka-7080" />
+        <module name="20191206-consumer-7002" />
+        <module name="20191206-consumer-7001" />
+        <module name="20191202-springcloud-model" />
+        <module name="20191209-zuul-management" />
+        <module name="20191206-springcloud-api" />
+        <module name="20191218-provider-8003" />
+        <module name="20191202-consumer-7000" />
+        <module name="20191203-eureka-7082" />
+        <module name="20191203-eureka-7081" />
+        <module name="20191202-springcloud-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="20191202-consumer-7000" target="1.8" />
+      <module name="20191202-consumer-management" target="1.8" />
+      <module name="20191202-eureka-7080" target="1.8" />
+      <module name="20191202-eureka-management" target="1.8" />
+      <module name="20191202-provider-8000" target="1.8" />
+      <module name="20191202-provider-management" target="1.8" />
+      <module name="20191202-springcloud-management" target="1.8" />
+      <module name="20191202-springcloud-mapper" target="1.8" />
+      <module name="20191202-springcloud-model" target="1.8" />
+      <module name="20191202-springcloud-parent" target="1.8" />
+      <module name="20191202-springcloud-service" target="1.8" />
+      <module name="20191203-eureka-7081" target="1.8" />
+      <module name="20191203-eureka-7082" target="1.8" />
+      <module name="20191203-provider-8001" target="1.8" />
+      <module name="20191203-provider-8002" target="1.8" />
+      <module name="20191206-consumer-7001" target="1.8" />
+      <module name="20191206-consumer-7002" target="1.8" />
+      <module name="20191206-springcloud-api" target="1.8" />
+      <module name="20191209-zuul-management" target="1.8" />
+      <module name="20191218-provider-8003" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
